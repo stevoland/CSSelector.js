@@ -1,0 +1,38 @@
+{
+	"name": "CSSelector.js",
+	"description": "Generate a CSS selector string to target the given node",
+	"version": "0.1.0",
+	"homepage": "https://github.com/stevoland/CSSelector.js",
+	"author": {
+		"name": "stevo (Stephen Collings)",
+		"email": "stevoland@gmail.com",
+		"url": "http://stevoland.com"
+	},
+	"maintainers": [
+		{
+			"name": "stevo (Stephen Collings)",
+			"email": "stevoland@gmail.com",
+			"url": "http://stevoland.com"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/stevoland/CSSelector.js.git"
+	},
+	"bugs": {
+		"url": "https://github.com/stevoland/CSSelector.js/issues"
+	},
+	"licenses": [
+		{
+			"type": "MIT",
+			"url": "https://github.com/stevoland/CSSelector.js/blob/master/LICENSE-MIT"
+		}
+	],
+	"devDependencies": {
+		"grunt": "~0.3.15"
+	},
+	"jam": {
+		"main": "dist/CSSelector.js"
+	},
+	"main": "dist/CSSelector.js"
+}
